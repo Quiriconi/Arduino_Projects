@@ -10,8 +10,10 @@
             "includePath": [
                 "c:/Users/luca.quiriconi/Documents/Luca/Arduino_Projects/Arduino_Project/include",
                 "c:/Users/luca.quiriconi/Documents/Luca/Arduino_Projects/Arduino_Project/src",
+                "c:/Users/luca.quiriconi/Documents/Luca/Arduino_Projects/Arduino_Project/.pio/libdeps/megaatmega2560/EmonLib",
                 "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/variants/mega",
+                "c:/Users/luca.quiriconi/Documents/Luca/Arduino_Projects/Arduino_Project/lib/sct-013",
                 "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -24,8 +26,10 @@
                 "path": [
                     "c:/Users/luca.quiriconi/Documents/Luca/Arduino_Projects/Arduino_Project/include",
                     "c:/Users/luca.quiriconi/Documents/Luca/Arduino_Projects/Arduino_Project/src",
+                    "c:/Users/luca.quiriconi/Documents/Luca/Arduino_Projects/Arduino_Project/.pio/libdeps/megaatmega2560/EmonLib",
                     "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/variants/mega",
+                    "c:/Users/luca.quiriconi/Documents/Luca/Arduino_Projects/Arduino_Project/lib/sct-013",
                     "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/luca.quiriconi/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -35,7 +39,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60104",
+                "PLATFORMIO=60107",
                 "ARDUINO_AVR_MEGA2560",
                 "F_CPU=16000000L",
                 "ARDUINO_ARCH_AVR",
